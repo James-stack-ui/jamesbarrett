@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesbarrett&label=Profile%20views&color=0e75b6&style=flat" alt="jamesbarrett" /> </p>
 
-- 🔭 I’m currently working on [iLern AI - An learning app for students](www.linkedin.com/in/james-p-barrett-9046a7176)
+- 🔭 I’m currently working on [An AI-powered learning app to help students achieve high grades on their exams.](https://www.ilernai.com)
 
 - 📄 Know about my experiences [www.linkedin.com/in/james-p-barrett-9046a7176](www.linkedin.com/in/james-p-barrett-9046a7176)
 
