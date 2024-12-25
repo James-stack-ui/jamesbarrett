@@ -1,6 +1,8 @@
 
 
-<p><img src="https://ilernai.com/wp-content/uploads/2024/12/GitHub-Profile-Gifgif.gif" alt="">
+<p>
+  <a href="https://www.ilernai.com" >
+  <img src="https://ilernai.com/wp-content/uploads/2024/12/GitHub-Profile-Gifgif.gif" alt=""> </a>
 </p>
 <h1 align="center">Hi 👋, I'm James Barrett</h1>
 <h3 align="center">Aspiring Software Engineer | Mobile & Website Developer | An EdTech Innovator | <br> Passionate about leveraging Artificial Intelligence to revolutionize the education system in the Caribbean & Beyond | <br> Computer Science student at Northern Caribbean University</h3>
