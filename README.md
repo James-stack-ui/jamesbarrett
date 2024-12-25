@@ -4,7 +4,7 @@
 </video>
 </p>
 <h1 align="center">Hi 👋, I'm James Barrett</h1>
-<h3 align="center">Aspiring Software Engineer | Mobile & Website Developer | An EdTech Innovator | Passionate about leveraging Ai to revolutionize the Education system in the Caribbean & Beyond | Computer Science student at Northern Caribbean University</h3>
+<h3 align="center">Aspiring Software Engineer | Mobile & Website Developer | An EdTech Innovator | Passionate about leveraging Artificial Intelligence to revolutionize the Education system in the Caribbean & Beyond | Computer Science student at Northern Caribbean University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesbarrett&label=Profile%20views&color=0e75b6&style=flat" alt="jamesbarrett" /> </p>
 
