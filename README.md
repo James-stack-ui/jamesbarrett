@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesbarrett&show_icons=true&theme=dark&locale=en&layout=compact](https://ilernai.com/wp-content/uploads/2024/12/1705274510838.jpeg" alt="jamesbarrett" /></p>
+<p><img align="center" src="https://ilernai.com/wp-content/uploads/2024/12/1705274510838.jpeg" alt="jamesbarrett" /></p>
 <h1 align="center">Hi 👋, I'm James Barrett</h1>
 <h3 align="center">Computer Scientist | Mobile & Website Development | An EdTech Innovator | Passionate about leveraging Ai to revolutionize the Education system in the Caribbean & Beyond | Student at Northern Caribbean University</h3>
 
