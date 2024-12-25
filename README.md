@@ -1,3 +1,5 @@
+[Watch the demo video](https://ilernai.com/wp-content/uploads/2024/12/GitHub-Profile-Video.mp4)
+
 <p><video autoplay loop>
   <source src="https://ilernai.com/wp-content/uploads/2024/12/GitHub-Profile-Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
