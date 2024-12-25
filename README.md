@@ -1,4 +1,8 @@
-<p><img align="center" src="https://ilernai.com/wp-content/uploads/2024/12/1705274510838.jpeg" alt="jamesbarrett" /></p>
+<p><video width="320" height="240" autoplay loop>
+  <source src="https://ilernai.com/wp-content/uploads/2024/12/GitHub-Profile-Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 <h1 align="center">Hi 👋, I'm James Barrett</h1>
 <h3 align="center">Computer Scientist | Mobile & Website Development | An EdTech Innovator | Passionate about leveraging Ai to revolutionize the Education system in the Caribbean & Beyond | Student at Northern Caribbean University</h3>
 
